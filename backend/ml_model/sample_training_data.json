@@ -1,0 +1,27 @@
+{
+  "texts": [
+    "Breaking: Scientists discover cure for all diseases in secret lab",
+    "Local school board meets to discuss budget allocations for next year",
+    "SHOCKING: Aliens land in downtown area, government covers up evidence",
+    "Weather forecast predicts rain for the weekend in the metropolitan area",
+    "URGENT: New study shows drinking water causes immediate death",
+    "City council approves new traffic light installation at Main Street intersection",
+    "EXCLUSIVE: Celebrity spotted eating pizza, fans go crazy",
+    "University researchers publish findings on climate change impacts",
+    "BREAKING: Internet to shut down permanently next week, sources claim",
+    "Local library extends hours to accommodate increased community usage",
+    "MIRACLE CURE: This one weird trick doctors don't want you to know",
+    "Transportation department announces road maintenance schedule for summer",
+    "SCANDAL: Mayor seen walking dog without permit, impeachment likely",
+    "New restaurant opens in downtown area, features local ingredients",
+    "EXPOSED: Vaccines contain mind control chips, whistleblower reveals all",
+    "Community center hosts annual charity fundraiser this Saturday",
+    "SHOCKING TRUTH: Moon landing was filmed in Hollywood basement",
+    "School district announces new STEM program for elementary students",
+    "URGENT: Social media causes instant brain damage, study shows",
+    "Local farmers market celebrates 20th anniversary with special events"
+  ],
+  "labels": [
+    0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1
+  ]
+}

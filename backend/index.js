@@ -1,7 +1,7 @@
 import express from 'express'
 import dotenv from 'dotenv'
 import cookieparser from 'cookie-parser'
-// import twitterRouter from './routes/twitter.routes.js';
+import twitterRouter from './routes/twitter.routes.js';
 import userRouter from './routes/user.routes.js'
 import ConnectionDB from './connection.js';
 import cors from 'cors'
@@ -26,7 +26,7 @@ const corsOptions = {
     }
 }
 
-// app.use('/api/twitter', corsOptions(), twitterRouter)
+app.use('/api/twitter', cors(corsOptions), twitterRouter)
 app.use('/api/user', cors(corsOptions), userRouter)
 
 app.listen(port, (req,res)=>{
